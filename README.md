@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kossisoroyce
-- 👀 I’m interested in Python and Cloud Storage
+- 👀 I’m interested in Cyber Security and Cloud Storage
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python and Cloud Storage
+- 💞️ I’m looking to collaborate on Cyber Security and Decentralized Cloud Storage
 - 📫 How to reach me Kossisoroyce@gmail.com
 
 <!---
